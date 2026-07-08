@@ -1,6 +1,6 @@
 # Milestone 1 – Data Preparation & Power BI Modeling
 
-This milestone focuses on preparing the Smart Supply Chain dataset for analysis by cleaning, transforming, and modeling the data in Power BI.
+This milestone focuses on preparing the Smart Supply Chain dataset for analysis by cleaning, transforming and modeling the data in Power BI.
 
 
 ## Objective
@@ -33,7 +33,6 @@ The dataset contains real-world supply chain information, including:
 - Microsoft Power BI Desktop
 - Power Query Editor
 - Data Modeling
-- Git & GitHub
 
 
 ## Tasks Completed
