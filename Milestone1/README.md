@@ -1,14 +1,14 @@
-# 📦 Milestone 1 – Data Preparation & Power BI Modeling
+# Milestone 1 – Data Preparation & Power BI Modeling
 
 This milestone focuses on preparing the Smart Supply Chain dataset for analysis by cleaning, transforming, and modeling the data in Power BI.
 
 
-## 🎯 Objective
+## Objective
 
 The objective of this milestone is to build a clean and structured data model that serves as the foundation for supply chain analytics and visualization.
 
 
-## 📊 Dataset
+## Dataset
 
 **Dataset Name:** DataCo Smart Supply Chain Dataset
 
@@ -28,7 +28,7 @@ The dataset contains real-world supply chain information, including:
 - Geographic Information
 
 
-## 🛠 Tools Used
+## Tools Used
 
 - Microsoft Power BI Desktop
 - Power Query Editor
@@ -36,23 +36,23 @@ The dataset contains real-world supply chain information, including:
 - Git & GitHub
 
 
-## 📋 Tasks Completed
+## Tasks Completed
 
-### ✅ Data Loading
+### Data Loading
 - Imported the Smart Supply Chain dataset into Power BI.
 
-### ✅ Data Cleaning
+### Data Cleaning
 - Removed unnecessary columns.
 - Renamed the table to **Fact_Table**.
 - Fixed data types.
 - Handled null and duplicate values.
 
-### ✅ Data Transformation
+### Data Transformation
 - Created calculated columns where required.
 - Formatted date fields.
 - Improved data consistency.
 
-### ✅ Data Modeling
+### Data Modeling
 - Created relationships between tables.
 - Built a star-schema model.
 - Configured relationship directions.
@@ -60,7 +60,7 @@ The dataset contains real-world supply chain information, including:
 
 
 
-## 📈 Outcome
+## Outcome
 
 After completing this milestone:
 
@@ -70,16 +70,9 @@ After completing this milestone:
 - Data is ready for dashboard development.
 
 
-## 👨‍💻 Author
+## Author
 
 **David Mahesh Yarlagadda**
 
 GitHub: https://github.com/davidmahesh
 
----
-
-## ⭐ Project
-
-**Supply Chain Visibility Optimization using Power BI**
-
-This project aims to improve supply chain visibility through data analytics, interactive dashboards, and business intelligence techniques using Microsoft Power BI.
