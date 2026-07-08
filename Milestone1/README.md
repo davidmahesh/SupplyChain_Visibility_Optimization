@@ -23,9 +23,7 @@ The dataset contains real-world supply chain information, including:
 - Categories
 - Shipping
 - Sales
-- Profit
 - Delivery Status
-- Geographic Information
 
 
 ## Tools Used
