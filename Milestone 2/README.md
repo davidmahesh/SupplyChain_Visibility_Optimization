@@ -1,4 +1,4 @@
-# 📦 Supply Chain Visibility & Inventory Optimization Dashboard
+# Supply Chain Visibility & Inventory Optimization Dashboard
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
@@ -71,6 +71,100 @@ The dashboard is designed for:
 * Operational KPIs
 
 ---
+
+# Key Insights
+
+### Inventory
+
+* Products with high turnover contribute significantly to revenue generation.
+* Some products remain in inventory for extended periods, increasing holding costs.
+* Dead stock occupies valuable warehouse space without generating revenue.
+
+### Delivery
+
+* Late deliveries directly impact customer satisfaction.
+* Certain regions experience consistently higher delivery delays.
+* Improving logistics planning can reduce transportation inefficiencies.
+
+### Sales
+
+* A limited number of products contribute the majority of sales.
+* Category performance varies considerably across the inventory portfolio.
+* Inventory optimization presents opportunities to improve profitability.
+
+---
+
+# Business Recommendations
+
+## Inventory Optimization
+
+* Maintain optimal stock levels for high-demand products.
+* Reduce excess inventory for low-performing items.
+* Perform periodic inventory audits.
+* Implement demand forecasting models.
+* Improve reorder point calculations.
+
+---
+
+## Supply Chain Improvements
+
+* Monitor supplier performance regularly.
+* Reduce transportation delays.
+* Optimize warehouse operations.
+* Improve inventory replenishment cycles.
+* Strengthen logistics coordination.
+
+---
+
+## Sales Strategy
+
+* Promote slow-moving products through targeted campaigns.
+* Bundle low-demand items with best-selling products.
+* Discontinue consistently underperforming products.
+* Focus investment on high-performing categories.
+
+---
+
+# Tools & Technologies
+
+| Technology    | Purpose                        |
+| ------------- | ------------------------------ |
+| Power BI      | Dashboard Development          |
+| Power Query   | Data Cleaning & Transformation |
+| DAX           | Business Calculations          |
+| Data Modeling | Relationship Management        |
+| CSV Dataset   | Source Data                    |
+| GitHub        | Version Control                |
+
+---
+
+# Project Workflow
+
+```text
+Raw Dataset
+      │
+      ▼
+Power Query (Cleaning)
+      │
+      ▼
+Data Modeling
+      │
+      ▼
+DAX Measures
+      │
+      ▼
+Interactive Dashboard
+      │
+      ▼
+Business Insights
+      │
+      ▼
+Strategic Decision Making
+```
+
+---
+
+
 
 # Inventory Turnover Calculation Approach
 
@@ -197,97 +291,6 @@ Delivery performance is evaluated by comparing the **actual delivery date** agai
 
 ---
 
-# Key Insights
-
-### Inventory
-
-* Products with high turnover contribute significantly to revenue generation.
-* Some products remain in inventory for extended periods, increasing holding costs.
-* Dead stock occupies valuable warehouse space without generating revenue.
-
-### Delivery
-
-* Late deliveries directly impact customer satisfaction.
-* Certain regions experience consistently higher delivery delays.
-* Improving logistics planning can reduce transportation inefficiencies.
-
-### Sales
-
-* A limited number of products contribute the majority of sales.
-* Category performance varies considerably across the inventory portfolio.
-* Inventory optimization presents opportunities to improve profitability.
-
----
-
-# Business Recommendations
-
-## Inventory Optimization
-
-* Maintain optimal stock levels for high-demand products.
-* Reduce excess inventory for low-performing items.
-* Perform periodic inventory audits.
-* Implement demand forecasting models.
-* Improve reorder point calculations.
-
----
-
-## Supply Chain Improvements
-
-* Monitor supplier performance regularly.
-* Reduce transportation delays.
-* Optimize warehouse operations.
-* Improve inventory replenishment cycles.
-* Strengthen logistics coordination.
-
----
-
-## Sales Strategy
-
-* Promote slow-moving products through targeted campaigns.
-* Bundle low-demand items with best-selling products.
-* Discontinue consistently underperforming products.
-* Focus investment on high-performing categories.
-
----
-
-# Tools & Technologies
-
-| Technology    | Purpose                        |
-| ------------- | ------------------------------ |
-| Power BI      | Dashboard Development          |
-| Power Query   | Data Cleaning & Transformation |
-| DAX           | Business Calculations          |
-| Data Modeling | Relationship Management        |
-| CSV Dataset   | Source Data                    |
-| GitHub        | Version Control                |
-
----
-
-# Project Workflow
-
-```text
-Raw Dataset
-      │
-      ▼
-Power Query (Cleaning)
-      │
-      ▼
-Data Modeling
-      │
-      ▼
-DAX Measures
-      │
-      ▼
-Interactive Dashboard
-      │
-      ▼
-Business Insights
-      │
-      ▼
-Strategic Decision Making
-```
-
----
 
 # Dashboard Highlights
 
