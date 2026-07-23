@@ -331,7 +331,7 @@ This dashboard empowers organizations to:
 
 ## If you found this project useful
 
-Please consider giving this repository a **Star ⭐**.
+Please consider giving this repository a **Star ⭐**
 
 It motivates future development and helps others discover the project.
 
