@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Domain-Supply%20Chain-success?style=for-the-badge">
 </p>
 
-## 📖 Project Overview
+## Project Overview
 
 Efficient inventory management is one of the most critical factors in supply chain success. Excess inventory increases storage costs, while insufficient inventory leads to stock-outs and customer dissatisfaction.
 
@@ -22,7 +22,7 @@ The dashboard is designed for:
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 * Monitor overall inventory performance.
 * Calculate and analyze Inventory Turnover Ratio.
@@ -36,9 +36,9 @@ The dashboard is designed for:
 
 ---
 
-# 📊 Dashboard Features
+# Dashboard Features
 
-### 📈 Inventory Overview
+### Inventory Overview
 
 * Total Inventory Value
 * Total Sales
@@ -46,7 +46,7 @@ The dashboard is designed for:
 * Stock Status Distribution
 * Product Category Analysis
 
-### 🚚 Delivery Performance
+### Delivery Performance
 
 * Average Delivery Days
 * Late Deliveries
@@ -54,7 +54,7 @@ The dashboard is designed for:
 * Delivery Performance Trend
 * Regional Performance Analysis
 
-### 📦 Product Performance
+### Product Performance
 
 * Fast Moving Products
 * Slow Moving Products
@@ -62,7 +62,7 @@ The dashboard is designed for:
 * Category-wise Inventory Analysis
 * Sales Distribution
 
-### 📉 Business Insights
+### Business Insights
 
 * Inventory Efficiency
 * Product Demand Analysis
@@ -72,7 +72,7 @@ The dashboard is designed for:
 
 ---
 
-# 🧮 Inventory Turnover Calculation Approach
+# Inventory Turnover Calculation Approach
 
 Inventory Turnover Ratio measures how efficiently inventory is sold and replenished during a given period.
 
@@ -110,7 +110,7 @@ A higher turnover ratio generally indicates efficient inventory utilization and 
 
 ---
 
-# ⚡ Fast-Moving & Slow-Moving Inventory Identification Logic
+# Fast-Moving & Slow-Moving Inventory Identification Logic
 
 Inventory movement is determined using the number of days since the last recorded sale for each product.
 
@@ -136,10 +136,10 @@ DATEDIFF(
 
 | Days Since Last Sale | Inventory Status |
 | -------------------- | ---------------- |
-| 0–30 Days            | 🚀 Fast Moving   |
-| 31–90 Days           | 📦 Normal Moving |
-| 91–180 Days          | 🟡 Slow Moving   |
-| More than 180 Days   | 🔴 Dead Stock    |
+| 0–30 Days            |   Fast Moving    |
+| 31–90 Days           |   Normal Moving  |
+| 91–180 Days          |   Slow Moving    |
+| More than 180 Days   |   Dead Stock     |
 
 ### Business Value
 
@@ -153,7 +153,7 @@ This classification helps organizations:
 
 ---
 
-# 🚚 Delivery Performance Analysis Methodology
+#  Delivery Performance Analysis Methodology
 
 Delivery performance is evaluated by comparing the **actual delivery date** against the **scheduled delivery date**.
 
@@ -167,8 +167,8 @@ Delivery performance is evaluated by comparing the **actual delivery date** agai
 
 ### Delivery Classification
 
-| Condition                             | Status          |
-| ------------------------------------- | --------------- |
+| Condition                             | Status           |
+| ------------------------------------- | ---------------- |
 | Delivered on or before scheduled date | ✅ On Time       |
 | Delivered after scheduled date        | ❌ Late Delivery |
 
@@ -182,36 +182,36 @@ Delivery performance is evaluated by comparing the **actual delivery date** agai
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
-* 💰 Total Sales
-* 📦 Inventory Value
-* 🔄 Inventory Turnover Ratio
-* 🚚 Average Delivery Days
-* 📈 Sales Growth
-* 🛒 Product Performance
-* 📊 Category Performance
-* 📍 Regional Sales
-* ⚠️ Dead Stock Count
-* 📦 Slow Moving Inventory
+*  Total Sales
+*  Inventory Value
+*  Inventory Turnover Ratio
+*  Average Delivery Days
+*  Sales Growth
+*  Product Performance
+*  Category Performance
+*  Regional Sales
+*  Dead Stock Count
+*  Slow Moving Inventory
 
 ---
 
-# 💡 Key Insights
+# Key Insights
 
-### 📈 Inventory
+### Inventory
 
 * Products with high turnover contribute significantly to revenue generation.
 * Some products remain in inventory for extended periods, increasing holding costs.
 * Dead stock occupies valuable warehouse space without generating revenue.
 
-### 🚚 Delivery
+### Delivery
 
 * Late deliveries directly impact customer satisfaction.
 * Certain regions experience consistently higher delivery delays.
 * Improving logistics planning can reduce transportation inefficiencies.
 
-### 💰 Sales
+### Sales
 
 * A limited number of products contribute the majority of sales.
 * Category performance varies considerably across the inventory portfolio.
@@ -219,7 +219,7 @@ Delivery performance is evaluated by comparing the **actual delivery date** agai
 
 ---
 
-# 🚀 Business Recommendations
+# Business Recommendations
 
 ## Inventory Optimization
 
@@ -250,7 +250,7 @@ Delivery performance is evaluated by comparing the **actual delivery date** agai
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 | Technology    | Purpose                        |
 | ------------- | ------------------------------ |
@@ -263,7 +263,7 @@ Delivery performance is evaluated by comparing the **actual delivery date** agai
 
 ---
 
-# 📂 Project Workflow
+# Project Workflow
 
 ```text
 Raw Dataset
@@ -289,7 +289,7 @@ Strategic Decision Making
 
 ---
 
-# 📌 Dashboard Highlights
+# Dashboard Highlights
 
 * Interactive KPI Cards
 * Inventory Health Monitoring
@@ -302,21 +302,21 @@ Strategic Decision Making
 
 ---
 
-# 🎯 Business Impact
+# Business Impact
 
 This dashboard empowers organizations to:
 
-* 📉 Reduce inventory carrying costs
-* 📈 Improve inventory turnover
-* 🚚 Increase delivery efficiency
-* 💰 Maximize profitability
-* 📦 Optimize warehouse utilization
-* 📊 Support data-driven decision making
-* ⚡ Enhance supply chain visibility
+*  Reduce inventory carrying costs
+*  Improve inventory turnover
+*  Increase delivery efficiency
+*  Maximize profitability
+*  Optimize warehouse utilization
+*  Support data-driven decision making
+*  Enhance supply chain visibility
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **David Mahesh Yarlagadda**
 
@@ -326,7 +326,7 @@ This dashboard empowers organizations to:
 
 ---
 
-## ⭐ If you found this project useful
+## If you found this project useful
 
 Please consider giving this repository a **Star ⭐**.
 
