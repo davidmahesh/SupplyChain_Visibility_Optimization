@@ -325,13 +325,6 @@ This dashboard empowers organizations to:
 
 **B.Tech – Computer Science & Engineering (AI & ML)**
 
-**Skills:** Power BI • SQL • Python • Data Analytics • Business Intelligence • Machine Learning
-
 ---
 
-## If you found this project useful
-
-Please consider giving this repository a **Star ⭐**
-
-It motivates future development and helps others discover the project.
 
