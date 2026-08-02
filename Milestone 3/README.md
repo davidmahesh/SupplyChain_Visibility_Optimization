@@ -24,7 +24,7 @@ Designed for:
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 * Evaluate supplier performance using key business metrics.
 * Build a supplier scorecard for performance monitoring.
@@ -37,9 +37,9 @@ Designed for:
 
 ---
 
-# 📊 Dashboard Features
+# Dashboard Features
 
-## 👨‍💼 Supplier Performance
+## Supplier Performance
 
 * Supplier Scorecard
 * Supplier Ranking
@@ -48,7 +48,7 @@ Designed for:
 * Lead Time Comparison
 * Supplier Benchmarking
 
-## 🚛 Transportation Analytics
+## Transportation Analytics
 
 * Transportation Cost Analysis
 * Carrier Performance
@@ -57,7 +57,7 @@ Designed for:
 * Delivery Trend Analysis
 * Logistics Efficiency
 
-## 📈 Business KPIs
+## Business KPIs
 
 * Average Supplier Score
 * Average Lead Time
@@ -69,7 +69,7 @@ Designed for:
 
 ---
 
-# 🧮 Supplier Scorecard Calculation Methodology
+# Supplier Scorecard Calculation Methodology
 
 Supplier performance is evaluated using multiple operational KPIs that collectively represent supplier efficiency and reliability.
 
@@ -98,7 +98,7 @@ Higher scores indicate stronger supplier performance and greater operational rel
 
 ---
 
-# 🏆 Supplier Ranking & Benchmarking Approach
+# Supplier Ranking & Benchmarking Approach
 
 Suppliers are benchmarked against one another using their overall performance score.
 
@@ -133,7 +133,7 @@ RANKX(
 
 ---
 
-# 🚚 Transportation Cost Analysis Methodology
+# Transportation Cost Analysis Methodology
 
 Transportation costs are analyzed to understand logistics efficiency and identify opportunities for cost optimization.
 
@@ -159,7 +159,7 @@ This enables organizations to improve logistics planning and reduce unnecessary 
 
 ---
 
-# 🛣️ Route & Carrier Performance Evaluation
+# Route & Carrier Performance Evaluation
 
 Transportation efficiency is evaluated by analyzing both routes and logistics carriers.
 
@@ -192,21 +192,21 @@ This evaluation helps businesses identify the most reliable logistics partners w
 
 ---
 
-# 📊 Key Performance Indicators
+# Key Performance Indicators
 
-* 👨‍💼 Total Suppliers
-* ⭐ Average Supplier Score
-* 📦 Supplier Reliability %
-* ⏳ Average Lead Time
-* 🚛 Transportation Cost
-* 📍 Route Performance
-* 🚚 Carrier Performance
-* 📈 Delivery Success Rate
-* 💰 Logistics Cost Distribution
+*  Total Suppliers
+*  Average Supplier Score
+*  Supplier Reliability %
+*  Average Lead Time
+*  Transportation Cost
+*  Route Performance
+*  Carrier Performance
+*  Delivery Success Rate
+*  Logistics Cost Distribution
 
 ---
 
-# 💡 Key Insights
+# Key Insights
 
 ## Supplier Performance
 
@@ -228,7 +228,7 @@ This evaluation helps businesses identify the most reliable logistics partners w
 
 ---
 
-# 🚀 Business Recommendations
+# Business Recommendations
 
 ## Supplier Management
 
@@ -260,7 +260,7 @@ This evaluation helps businesses identify the most reliable logistics partners w
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 | Technology    | Purpose                 |
 | ------------- | ----------------------- |
@@ -273,7 +273,7 @@ This evaluation helps businesses identify the most reliable logistics partners w
 
 ---
 
-# 📂 Project Workflow
+# Project Workflow
 
 ```text
 Raw Supply Chain Data
@@ -302,7 +302,7 @@ Business Insights & Decision Making
 
 ---
 
-# 🌟 Dashboard Highlights
+# Dashboard Highlights
 
 * Interactive KPI Cards
 * Supplier Scorecards
@@ -315,22 +315,22 @@ Business Insights & Decision Making
 
 ---
 
-# 📈 Business Impact
+# Business Impact
 
 This dashboard helps organizations:
 
-* 🚛 Reduce transportation costs
-* 👨‍💼 Improve supplier selection
-* 📊 Benchmark supplier performance
-* 🚚 Increase logistics efficiency
-* ⏱️ Reduce delivery delays
-* 💰 Optimize procurement strategies
-* 📈 Improve operational visibility
-* 🎯 Support data-driven business decisions
+*  Reduce transportation costs
+*  Improve supplier selection
+*  Benchmark supplier performance
+*  Increase logistics efficiency
+*  Reduce delivery delays
+*  Optimize procurement strategies
+*  Improve operational visibility
+*  Support data-driven business decisions
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **David Mahesh Yarlagadda**
 
