@@ -333,5 +333,3 @@ This dashboard helps organizations:
 # Author
 
 **David Mahesh Yarlagadda**
-
-**B.Tech – Computer Science & Engineering (AI & ML)**
