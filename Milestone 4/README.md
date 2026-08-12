@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Transforming warehouse data into actionable operational and forecasting insights.</b>
+  <b>Transforming warehouse data into actionable operational and forecasting insights</b>
 </p>
 
 ---
