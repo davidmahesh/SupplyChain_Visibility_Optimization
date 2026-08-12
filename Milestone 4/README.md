@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Data%20Analytics-Business%20Intelligence-2563EB?style=for-the-badge">
   <img src="https://img.shields.io/badge/Project-Warehouse%20Analytics-2E86C1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Forecasting-Predictive%20Analytics-7C3AED?style=for-the-badge">
 </p>
 
 <p align="center">
